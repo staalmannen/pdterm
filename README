@@ -1,0 +1,4 @@
+This is initialy an import of the removed terminfo stubs from pdcurses,
+but since the purpose of this is to provide some sort of functionality 
+especially to Plan9/APE, I might change some stub functions to return 
+something that would be reasonable on that platform.
